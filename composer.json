@@ -34,7 +34,7 @@
     "overtrue/laravel-filesystem-qiniu": "^2.1",
     "phpoffice/phpspreadsheet": "^1.15",
     "spatie/laravel-ignition": "^1.0",
-    "tymon/jwt-auth": "^1.0"
+    "tymon/jwt-auth": "dev-develop"
   },
   "autoload": {
     "psr-4": {
